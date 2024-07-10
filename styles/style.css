@@ -41,7 +41,7 @@ border: 1px solid rgb(13, 19, 33);
 
 /* section 1 title */
 .sec-1{
-    background-image:url(/assets/Hero-bg.png);
+    background-image:url(../assets/Hero-bg.png);
     max-height: 652px;
     padding: 26px 226px 44px 226px;
 }
@@ -228,7 +228,7 @@ text-align: left;
 /* support style */
 .sec-5{
     height: 313px;
-    background-image: url(/assets/handshake.jpg);
+    background-image: url(../assets/handshake.jpg);
     opacity: 2;
     background-size: cover;
     background-repeat: none;
