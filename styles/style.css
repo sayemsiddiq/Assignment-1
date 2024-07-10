@@ -180,3 +180,47 @@ opacity: 0.7;
     align-items: center;
 }
 
+/* section 4 style */
+.sec-4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 48px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 111px;
+}
+.sec-4-div2{
+    display:flex;
+    gap:20px;
+    align-items: center;
+}
+.skill-con{
+    padding: 40px;
+    border-radius: 16px;
+
+}
+.skill-name{
+    color: rgb(13, 19, 33);
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+}
+.skill-p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left; 
+}
+.a-more{
+color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+}
